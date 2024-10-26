@@ -43,7 +43,7 @@ A weather monitoring system built using Flask, SQLite, and OpenWeather API. This
     ```bash
      python app.py
 **The app runs on http://127.0.0.1:5005 by default.If you run this on any other port, change the port in index.html file too.**
-2. **Open index.html file (Frontend)**
+### Open index.html file directly or run index.html (If you plan to open html file using IDE)  -----   -------   (index.html <<------This is the Main Frontend) ###
 
 
    
