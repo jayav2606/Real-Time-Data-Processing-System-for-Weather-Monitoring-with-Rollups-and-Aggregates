@@ -51,6 +51,7 @@ A weather monitoring system built using Flask, SQLite, and OpenWeather API. This
 
 
 
+![Screenshot (690)](https://github.com/user-attachments/assets/6b8ab11f-7ec5-4499-9bf5-cdbe01c8ca64)
 
 
 
